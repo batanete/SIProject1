@@ -10,5 +10,3 @@ Technologies/API's used:
 -Java Message Service(JMS)  
 -XSLT  
 -XML  
-
-Grading: 96%
