@@ -4,7 +4,7 @@ My first Systems Integration project from 2016. It consists of a web crawler imp
 For more information, check the report.
 
 implementation language:Java
-Technologies/API's used:
+Technologies/API's used:  
 -Wildfly/JBoss  
 -JSoup  
 -Java Message Service(JMS)  
