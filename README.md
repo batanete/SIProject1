@@ -11,4 +11,4 @@ Java Message Service(JMS)
 XSLT
 XML
 
-Obtained grading: 96%
+Grading: 96%
