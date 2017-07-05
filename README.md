@@ -4,11 +4,11 @@ My first Systems Integration project from 2016. It consists of a web crawler imp
 For more information, check the report.
 
 implementation language:Java
--Technologies/API's used:
--Wildfly/JBoss
--JSoup
--Java Message Service(JMS)
--XSLT
--XML
+Technologies/API's used:
+-Wildfly/JBoss  
+-JSoup  
+-Java Message Service(JMS)  
+-XSLT  
+-XML  
 
 Grading: 96%
